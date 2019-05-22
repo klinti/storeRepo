@@ -2,3 +2,4 @@ chair
 table
 laptop
 bike
+book
